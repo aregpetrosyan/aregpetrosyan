@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey there, welcome to my GitHub account! My name is Areg Petrosyan, and I'm a software engineer with a passion for Android development using Kotlin.
+Welcome to my GitHub account! I'm a software engineer with a passion for Android development using Kotlin.
 
 I've created several boilerplate repositories written in Kotlin for Android that can help you get started with your own projects. They're designed to be user-friendly and comprehensive, so I hope you find them useful.
 
